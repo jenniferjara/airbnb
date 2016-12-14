@@ -8,12 +8,12 @@ Airbnb es un marketplace para publicar, descubrir y reservar viviendas. El nombr
 
 Airbnb cubre unas 2.000.000 propiedades en 192 países y 33.000 ciudades. Desde su creación en noviembre de 2008 hasta junio de 2012 se realizaron 10 millones de reservas.
 
-Somos estudiantes de Laboratoria y tenemos como objetivo replicar la página de AIRbnb.
+Somos estudiantes de Laboratoria y tenemos como reto replicar la página de AIRbnb y realizar filtros de búsqueda.
 
 ### Requerimientos
 	* Replicar la página.
-	* Como reto: Proceso de búsqueda:
-	Consumir el API de Google Maps para display los locations
+	* Como reto: En el proceso de búsqueda poder consumir el API de Google Maps para mostrar resyltados en el mapa.
+	
 ![](/assets/img/search.png)
 	* Home Page: 
 	Conectar API de FB para log-in.  
